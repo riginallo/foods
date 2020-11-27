@@ -1,4 +1,3 @@
-[
 {
 name: "couscous",
 color:"multi",
@@ -19,7 +18,7 @@ color:"multi",
 smell:"rice+spices",
 taste:"hot",
 pic:"https://cdn.pixabay.com/photo/2016/02/19/11/30/shrimp-1209744_960_720.jpg",
-},
+}
 
 
-]
+
