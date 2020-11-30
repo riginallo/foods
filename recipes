@@ -8,12 +8,31 @@
   "cost": "15$",
   "advice": "Eat hot, beware small red pepper"
 },
-{
+{  
   "id": 1,
+  "dish": "brik",
+  "pic": "https://www.tounsia.net/media/cache/hug/uploads/2016/06/xdanouni.jpg.pagespeed.ic.80_marz4Ce.webp",
+  "base": "eggs",
+  "ingredients": "egg,vegetables,tuna,spices",
+  "cost": "15$",
+  "advice": "Eat hot"
+},
+{  
+  "id": 2,
+  "dish": "kebab",
+  "pic": "https://www.tounsia.net/media/cache/hug/uploads/2019/12/xkebab.jpg.pagespeed.ic.pJsolCy3L0.webp",
+  "base": "meat",
+  "ingredients": "meat,vegetables,spices",
+  "cost": "25$",
+  "advice": "Beware quality!"
+},
+
+{
+  "id":3,
   "dish": "lablabi",
   "pic": "https://www.tounsia.net/media/cache/singlepost/uploads/2018/12/xlablabi.png.pagespeed.ic.ItRTKnCfTK.webp",
   "base": "chickpeas",
-  "ingredients": "chickpeast,olive oil,tuna, spices",
+  "ingredients": "chickpeast,olive oil,tuna/egg, spices",
   "cost": "2.5$",
   "advice": "Can be real hot!"
 }
