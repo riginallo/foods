@@ -1,20 +1,20 @@
 [
-{
-  "login": "cowboy",
-  "id": 1111644,
-  "pic": "https://media.istockphoto.com/photos/cowboy-riding-horses-prancing-horse-picture-id1170373407?b=1&k=6&m=1170373407&s=170667a&w=0&h=xN5XLn5YXeYV1awDmjyz2_qtEcTsckzmvSlKIM1yGdM=",
-  "avatar": "https://avatars0.githubusercontent.com/u/5646?v=4",
-  "url": "https://api.github.com/users/cowboy",
-  "type": "User",
-  "updated_at": "2018-11-26T19:44:26Z"
+{  
+  "id": 0,
+  "dish": "couscous",
+  "pic": "https://cdn.pixabay.com/photo/2015/09/18/04/13/couscous-945029_960_720.jpg",
+  "base": "wheat",
+  "ingredients": "wheat,vegetables,meat,spices",
+  "cost": "15$",
+  "advice": "Eat hot, beware small red pepper"
 },
 {
-  "login": "Doc Halliday",
-  "id": 2222644,
-  "pic":"https://media1.tenor.com/images/0feca46a624ad20f1b8a838e99f5487d/tenor.gif?itemid=14786076",
-  "avatar": "https://avatars0.githubusercontent.com/f/8712?v=4",
-  "url": "https://api.github.com/users/riginallo",
-  "type": "User",
-  "updated_at": "2020-11-26T19:44:26Z"
+  "id": 1,
+  "dish": "lablabi",
+  "pic": "https://www.tounsia.net/media/cache/singlepost/uploads/2018/12/xlablabi.png.pagespeed.ic.ItRTKnCfTK.webp",
+  "base": "chickpeas",
+  "ingredients": "chickpeast,olive oil,tuna, spices",
+  "cost": "2.5$",
+  "advice": "Can be real hot!"
 }
 ]
