@@ -5,7 +5,7 @@
   "pic": "https://cdn.pixabay.com/photo/2015/09/18/04/13/couscous-945029_960_720.jpg",
   "base": "base: wheat",
   "ingredients": "ingredients: wheat,vegetables,meat,spices",
-  "cost": "cost: 15$",
+  "cost": "cost: $15",
   "advice": "Advice: Eat hot, beware small red pepper"
 },
 {  
@@ -14,7 +14,7 @@
   "pic": "https://www.tounsia.net/media/cache/hug/uploads/2016/06/xdanouni.jpg.pagespeed.ic.80_marz4Ce.webp",
   "base": "base: eggs",
   "ingredients": "ingredients: egg,vegetables,tuna,spices",
-  "cost": "cost: 15$",
+  "cost": "cost: $15",
   "advice": "Advice: Eat hot"
 },
 {  
@@ -23,7 +23,7 @@
   "pic": "https://www.tounsia.net/media/cache/hug/uploads/2019/12/xkebab.jpg.pagespeed.ic.pJsolCy3L0.webp",
   "base": "base: meat",
   "ingredients": "ingredients: meat,vegetables,spices",
-  "cost": "cost: 25$",
+  "cost": "cost: $25",
   "advice": "Advice: Beware quality!"
 },
 
