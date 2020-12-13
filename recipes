@@ -1,39 +1,28 @@
 [
 {  
   "id": 0,
-  "dish": "dish: couscous",
+  "question": "What is this?",
   "pic": "https://cdn.pixabay.com/photo/2015/09/18/04/13/couscous-945029_960_720.jpg",
-  "base": "base: wheat",
-  "ingredients": "ingredients: wheat,vegetables,meat,spices",
-  "cost": "cost: $15",
-  "advice": "Advice: Eat hot, beware small red pepper"
+  "answer": "A dish.",
+  
 },
 {  
   "id": 1,
-  "dish": "dish: brik",
+  "Question": "What is this",
   "pic": "https://www.tounsia.net/media/cache/hug/uploads/2016/06/xdanouni.jpg.pagespeed.ic.80_marz4Ce.webp",
-  "base": "base: eggs",
-  "ingredients": "ingredients: egg,vegetables,tuna,spices",
-  "cost": "cost: $15",
-  "advice": "Advice: Eat hot"
+  "answer": "An egg."
 },
 {  
   "id": 2,
-  "dish": "dish: kebab",
+  "Question": "What is this",
   "pic": "https://www.tounsia.net/media/cache/hug/uploads/2019/12/xkebab.jpg.pagespeed.ic.pJsolCy3L0.webp",
-  "base": "base: meat",
-  "ingredients": "ingredients: meat,vegetables,spices",
-  "cost": "cost: $25",
-  "advice": "Advice: Beware quality!"
+  "answer": "Meat."
 },
 
 {
   "id":3,
-  "dish": "dish: lablabi",
+  "Question": "What is this",
   "pic": "https://www.tounsia.net/media/cache/singlepost/uploads/2018/12/xlablabi.png.pagespeed.ic.ItRTKnCfTK.webp",
-  "base": "base: chickpeas",
-  "ingredients": "ingredients: chickpeast,olive oil,tuna/egg, spices",
-  "cost": "cost: 2.5$",
-  "advice": "Advice: Can be real hot!"
+  "answer": "Vegetables."
 }
 ]
