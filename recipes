@@ -1,28 +1,25 @@
 [
-{  
-  "id": 0,
-  "question": "What is this?",
-  "pic": "https://cdn.pixabay.com/photo/2015/09/18/04/13/couscous-945029_960_720.jpg",
-  "answer": "A dish.",
-  
-},
-{  
-  "id": 1,
-  "Question": "What is this",
-  "pic": "https://www.tounsia.net/media/cache/hug/uploads/2016/06/xdanouni.jpg.pagespeed.ic.80_marz4Ce.webp",
-  "answer": "An egg."
-},
-{  
-  "id": 2,
-  "Question": "What is this",
-  "pic": "https://www.tounsia.net/media/cache/hug/uploads/2019/12/xkebab.jpg.pagespeed.ic.pJsolCy3L0.webp",
-  "answer": "Meat."
-},
-
-{
-  "id":3,
-  "Question": "What is this",
-  "pic": "https://www.tounsia.net/media/cache/singlepost/uploads/2018/12/xlablabi.png.pagespeed.ic.ItRTKnCfTK.webp",
-  "answer": "Vegetables."
-}
+   {"id":0,
+      "question":"What is this?",
+      "pic":"https://cdn.pixabay.com/photo/2015/09/18/04/13/couscous-945029_960_720.jpg",
+      "answer":"A dish."
+   },
+   {
+      "id":1,
+      "Question":"What is this",
+      "pic":"https://www.tounsia.net/media/cache/hug/uploads/2016/06/xdanouni.jpg.pagespeed.ic.80_marz4Ce.webp",
+      "answer":"An egg."
+   },
+   {
+      "id":2,
+      "Question":"What is this",
+      "pic":"https://www.tounsia.net/media/cache/hug/uploads/2019/12/xkebab.jpg.pagespeed.ic.pJsolCy3L0.webp",
+      "answer":"Meat."
+   },
+   {
+      "id":3,
+      "Question":"What is this",
+      "pic":"https://www.tounsia.net/media/cache/singlepost/uploads/2018/12/xlablabi.png.pagespeed.ic.ItRTKnCfTK.webp",
+      "answer":"Vegetables."
+   }
 ]
