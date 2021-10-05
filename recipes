@@ -7,19 +7,19 @@
    {
       "id":1,
       "question":"What is this?",
-      "pic":"https://www.tounsia.net/media/cache/hug/uploads/2016/06/xdanouni.jpg.pagespeed.ic.80_marz4Ce.webp",
+      "pic":"https://cdn.pixabay.com/photo/2011/04/06/09/24/scrambled-eggs-6128_960_720.jpg",
       "answer":"An egg."
    },
    {
       "id":2,
       "question":"What is this?",
-      "pic":"https://www.tounsia.net/media/cache/hug/uploads/2019/12/xkebab.jpg.pagespeed.ic.pJsolCy3L0.webp",
+      "pic":"https://cdn.pixabay.com/photo/2013/02/21/19/12/barbecue-84671_960_720.jpg",
       "answer":"Meat."
    },
    {
       "id":3,
       "question":"What is this?",
-      "pic":"https://www.tounsia.net/media/cache/singlepost/uploads/2018/12/xlablabi.png.pagespeed.ic.ItRTKnCfTK.webp",
+      "pic":"https://images-gmi-pmc.edge-generalmills.com/5bce0f7f-53dc-4fe1-9331-dfb2fe038c69.jpg",
       "answer":"Vegetables."
    }
 ]
